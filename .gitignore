@@ -4,6 +4,7 @@ venv/
 env/
 ENV/
 .env
+253_31033_139-pycharm-support-libs/
 
 # Python cache
 __pycache__/
